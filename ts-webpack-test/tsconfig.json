@@ -1,0 +1,11 @@
+{
+    "include": [
+        "src/**/*"
+    ],
+    "compilerOptions": {
+        "watch": true,
+        "outDir": "build",
+        "module": "amd",
+        "sourceMap": true,
+    }
+}
